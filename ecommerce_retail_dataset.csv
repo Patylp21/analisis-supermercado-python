@@ -1,0 +1,701 @@
+fecha_compra,producto,categoria,cantidad,precio_unitario,cliente,ciudad,metodo_pago,estado_envio,total_venta
+2024-07-21,Televisión,Electrónica,7,10875.33,Cliente_40,Guadalajara,Transferencia,En camino,76127.31
+2024-09-12,Detergente,Limpieza,6,120.47,Cliente_2,Guadalajara,PayPal,En camino,722.82
+2024-03-26,Licuadora,Electrónica,4,1939.77,Cliente_81,Mérida,Tarjeta,En camino,7759.08
+2024-05-29,Papel Higiénico,Hogar,2,84.66,Cliente_41,Toluca,PayPal,Cancelado,169.32
+2024-08-22,Televisión,Electrónica,6,12336.18,Cliente_12,Guadalajara,Tarjeta,En camino,74017.08
+2024-12-10,Cereal,Alimentos,2,62.07,Cliente_35,Querétaro,PayPal,Cancelado,124.14
+2024-01-22,Arroz,Despensa,2,40.87,Cliente_65,Puebla,Transferencia,Entregado,81.74
+2024-12-13,Televisión,Electrónica,2,9468.01,Cliente_55,Mérida,Tarjeta,Entregado,18936.02
+2024-10-11,Licuadora,Electrónica,6,1550.73,Cliente_45,Querétaro,Efectivo,Cancelado,9304.38
+2024-09-25,Papel Higiénico,Hogar,7,75.74,Cliente_79,CDMX,Transferencia,Cancelado,530.18
+2024-09-14,Detergente,Limpieza,3,102.43,Cliente_90,Monterrey,Efectivo,Cancelado,307.29
+2024-01-29,Licuadora,Electrónica,3,2084.48,Cliente_85,Mérida,Transferencia,En camino,6253.44
+2024-07-31,Licuadora,Electrónica,7,1543.66,Cliente_62,CDMX,PayPal,Entregado,10805.62
+2024-10-09,Arroz,Despensa,2,62.77,Cliente_49,Monterrey,Tarjeta,Cancelado,125.54
+2024-02-19,Refresco,Bebidas,4,42.96,Cliente_95,Puebla,Transferencia,En camino,171.84
+2024-04-04,Papel Higiénico,Hogar,1,97.63,Cliente_25,Guadalajara,PayPal,Entregado,97.63
+2024-03-28,Pan,Alimentos,6,24.39,Cliente_23,Querétaro,Tarjeta,En camino,146.34
+2024-02-13,Licuadora,Electrónica,1,1989.08,Cliente_24,Toluca,Tarjeta,Entregado,1989.08
+2024-10-04,Refresco,Bebidas,7,36.55,Cliente_38,Querétaro,Transferencia,En camino,255.85
+2024-06-19,Pan,Alimentos,4,28.51,Cliente_28,Puebla,Tarjeta,Entregado,114.04
+2024-07-07,Papel Higiénico,Hogar,6,131.48,Cliente_21,CDMX,Transferencia,Entregado,788.88
+2024-12-18,Leche,Alimentos,7,34.5,Cliente_54,Toluca,Tarjeta,En camino,241.5
+2024-07-02,Cereal,Alimentos,2,82.07,Cliente_18,Guadalajara,Efectivo,Cancelado,164.14
+2024-01-03,Refresco,Bebidas,3,35.78,Cliente_36,Puebla,PayPal,Entregado,107.34
+2024-07-09,Shampoo,Cuidado Personal,1,84.55,Cliente_99,Toluca,Efectivo,Cancelado,84.55
+2024-04-27,Leche,Alimentos,5,44.3,Cliente_45,Puebla,Transferencia,En camino,221.5
+2024-01-19,Cereal,Alimentos,5,63.42,Cliente_73,Puebla,Efectivo,Cancelado,317.1
+2024-01-23,Arroz,Despensa,4,57.23,Cliente_53,Guadalajara,Transferencia,Cancelado,228.92
+2024-01-30,Televisión,Electrónica,2,13273.95,Cliente_30,Mérida,Tarjeta,Cancelado,26547.9
+2024-10-21,Detergente,Limpieza,1,109.88,Cliente_60,Monterrey,Tarjeta,Cancelado,109.88
+2024-04-17,Shampoo,Cuidado Personal,2,93.06,Cliente_98,Toluca,Transferencia,Cancelado,186.12
+2024-10-07,Arroz,Despensa,1,51.56,Cliente_32,Guadalajara,Efectivo,Entregado,51.56
+2024-05-07,Papel Higiénico,Hogar,4,103.86,Cliente_67,Puebla,Tarjeta,Entregado,415.44
+2024-08-16,Arroz,Despensa,4,34.4,Cliente_67,Guadalajara,PayPal,Entregado,137.6
+2024-04-20,Televisión,Electrónica,5,10691.15,Cliente_28,Mérida,Tarjeta,En camino,53455.75
+2024-05-15,Papel Higiénico,Hogar,2,91.47,Cliente_44,Monterrey,PayPal,Cancelado,182.94
+2024-12-27,Shampoo,Cuidado Personal,6,84.05,Cliente_79,Querétaro,Efectivo,Entregado,504.3
+2024-07-04,Televisión,Electrónica,5,13117.21,Cliente_41,Toluca,PayPal,En camino,65586.05
+2024-05-23,Pan,Alimentos,2,28.75,Cliente_63,Monterrey,PayPal,Entregado,57.5
+2024-03-12,Detergente,Limpieza,5,95.96,Cliente_23,CDMX,PayPal,Entregado,479.8
+2024-05-08,Shampoo,Cuidado Personal,6,89.85,Cliente_75,Toluca,PayPal,Cancelado,539.1
+2024-12-29,Pan,Alimentos,3,30.56,Cliente_48,Monterrey,Tarjeta,En camino,91.68
+2024-09-17,Cereal,Alimentos,3,75.88,Cliente_32,Puebla,PayPal,Cancelado,227.64
+2024-01-03,Shampoo,Cuidado Personal,3,98.78,Cliente_57,Toluca,Tarjeta,Cancelado,296.34
+2024-04-13,Cereal,Alimentos,3,78.76,Cliente_100,Toluca,PayPal,Entregado,236.28
+2024-08-11,Papel Higiénico,Hogar,7,101.54,Cliente_33,Guadalajara,Transferencia,Cancelado,710.78
+2024-11-15,Pan,Alimentos,1,27.71,Cliente_24,Puebla,Efectivo,En camino,27.71
+2024-12-27,Detergente,Limpieza,7,90.1,Cliente_39,CDMX,PayPal,Cancelado,630.7
+2024-12-19,Televisión,Electrónica,7,12773.31,Cliente_34,Querétaro,Transferencia,Cancelado,89413.17
+2024-01-10,Licuadora,Electrónica,7,1856.08,Cliente_56,Mérida,PayPal,Cancelado,12992.56
+2024-10-28,Arroz,Despensa,3,46.83,Cliente_28,Monterrey,PayPal,Entregado,140.49
+2024-08-18,Leche,Alimentos,6,28.3,Cliente_37,Guadalajara,PayPal,En camino,169.8
+2024-08-06,Detergente,Limpieza,4,100.54,Cliente_7,Monterrey,Transferencia,Entregado,402.16
+2024-03-06,Pan,Alimentos,4,32.42,Cliente_68,CDMX,Efectivo,Entregado,129.68
+2024-04-21,Licuadora,Electrónica,1,1789.32,Cliente_37,CDMX,Transferencia,Entregado,1789.32
+2024-01-13,Detergente,Limpieza,3,132.27,Cliente_56,Toluca,Efectivo,Entregado,396.81
+2024-03-26,Pan,Alimentos,3,28.12,Cliente_65,Mérida,PayPal,Entregado,84.36
+2024-08-21,Refresco,Bebidas,3,40.18,Cliente_65,CDMX,Tarjeta,En camino,120.54
+2024-03-30,Refresco,Bebidas,5,45.63,Cliente_47,Monterrey,PayPal,Cancelado,228.15
+2024-11-09,Cereal,Alimentos,2,64.58,Cliente_20,Puebla,Efectivo,Entregado,129.16
+2024-02-23,Detergente,Limpieza,5,121.73,Cliente_19,Puebla,Transferencia,Entregado,608.65
+2024-01-12,Refresco,Bebidas,2,37.23,Cliente_29,Toluca,PayPal,En camino,74.46
+2024-07-27,Pan,Alimentos,3,26.18,Cliente_74,Querétaro,Transferencia,En camino,78.54
+2024-01-14,Cereal,Alimentos,3,66.75,Cliente_60,Monterrey,Transferencia,Cancelado,200.25
+2024-04-30,Pan,Alimentos,5,28.93,Cliente_18,Monterrey,Transferencia,En camino,144.65
+2024-01-20,Cereal,Alimentos,5,64.97,Cliente_92,CDMX,PayPal,Cancelado,324.85
+2024-03-15,Detergente,Limpieza,2,142.6,Cliente_35,Mérida,Transferencia,Entregado,285.2
+2024-08-30,Licuadora,Electrónica,4,1558.46,Cliente_43,Monterrey,Transferencia,Entregado,6233.84
+2024-08-10,Televisión,Electrónica,2,11663.63,Cliente_95,Guadalajara,PayPal,Cancelado,23327.26
+2024-03-10,Shampoo,Cuidado Personal,5,79.39,Cliente_91,Querétaro,Transferencia,En camino,396.95
+2024-11-07,Licuadora,Electrónica,6,2190.68,Cliente_11,CDMX,PayPal,Cancelado,13144.08
+2024-07-29,Papel Higiénico,Hogar,5,97.8,Cliente_49,Guadalajara,Efectivo,En camino,489.0
+2024-04-10,Pan,Alimentos,6,32.33,Cliente_38,Toluca,Efectivo,Entregado,193.98
+2024-07-04,Papel Higiénico,Hogar,1,73.83,Cliente_64,Puebla,Efectivo,En camino,73.83
+2024-05-11,Licuadora,Electrónica,5,1872.1,Cliente_69,Toluca,Transferencia,Cancelado,9360.5
+2024-04-20,Cereal,Alimentos,1,79.34,Cliente_8,Puebla,Tarjeta,Cancelado,79.34
+2024-05-11,Shampoo,Cuidado Personal,4,86.05,Cliente_34,Toluca,Tarjeta,Entregado,344.2
+2024-01-20,Shampoo,Cuidado Personal,2,98.58,Cliente_48,Monterrey,Transferencia,En camino,197.16
+2024-01-24,Leche,Alimentos,6,32.28,Cliente_56,Guadalajara,Tarjeta,En camino,193.68
+2024-08-14,Shampoo,Cuidado Personal,2,102.97,Cliente_76,Puebla,PayPal,En camino,205.94
+2024-06-02,Televisión,Electrónica,1,16138.02,Cliente_65,CDMX,Tarjeta,Entregado,16138.02
+2024-10-19,Shampoo,Cuidado Personal,6,80.37,Cliente_31,Guadalajara,Transferencia,En camino,482.22
+2024-08-17,Licuadora,Electrónica,2,1679.71,Cliente_4,CDMX,Transferencia,Cancelado,3359.42
+2024-11-05,Leche,Alimentos,5,42.63,Cliente_50,Guadalajara,PayPal,En camino,213.15
+2024-12-24,Licuadora,Electrónica,3,2226.48,Cliente_69,Guadalajara,Efectivo,Entregado,6679.44
+2024-07-20,Licuadora,Electrónica,1,1658.83,Cliente_30,Toluca,Transferencia,En camino,1658.83
+2024-02-07,Arroz,Despensa,2,42.16,Cliente_88,Puebla,PayPal,En camino,84.32
+2024-09-16,Leche,Alimentos,1,33.52,Cliente_59,Puebla,Tarjeta,Cancelado,33.52
+2024-07-06,Licuadora,Electrónica,7,1437.0,Cliente_67,Mérida,Tarjeta,En camino,10059.0
+2024-02-26,Arroz,Despensa,1,38.8,Cliente_75,Guadalajara,PayPal,Cancelado,38.8
+2024-01-20,Arroz,Despensa,6,38.22,Cliente_45,Monterrey,PayPal,Cancelado,229.32
+2024-09-29,Leche,Alimentos,7,30.97,Cliente_4,Monterrey,Transferencia,Entregado,216.79
+2024-04-28,Papel Higiénico,Hogar,6,94.51,Cliente_26,CDMX,Tarjeta,Cancelado,567.06
+2024-03-11,Cereal,Alimentos,3,72.46,Cliente_27,CDMX,PayPal,Cancelado,217.38
+2024-01-04,Televisión,Electrónica,7,14790.9,Cliente_46,Toluca,Tarjeta,Entregado,103536.3
+2024-08-08,Cereal,Alimentos,5,59.52,Cliente_64,Guadalajara,PayPal,Cancelado,297.6
+2024-01-14,Shampoo,Cuidado Personal,1,97.55,Cliente_91,CDMX,Tarjeta,Entregado,97.55
+2024-01-03,Televisión,Electrónica,2,11614.82,Cliente_51,CDMX,Efectivo,En camino,23229.64
+2024-08-03,Shampoo,Cuidado Personal,4,84.37,Cliente_50,Querétaro,Transferencia,Entregado,337.48
+2024-08-16,Licuadora,Electrónica,1,1982.2,Cliente_6,Guadalajara,Tarjeta,Cancelado,1982.2
+2024-12-01,Pan,Alimentos,1,23.28,Cliente_59,Toluca,Efectivo,Entregado,23.28
+2024-07-04,Leche,Alimentos,3,37.01,Cliente_15,CDMX,Tarjeta,Cancelado,111.03
+2024-02-24,Televisión,Electrónica,5,12299.61,Cliente_30,Toluca,Tarjeta,En camino,61498.05
+2024-09-10,Televisión,Electrónica,4,12886.41,Cliente_42,Puebla,Efectivo,Entregado,51545.64
+2024-01-24,Licuadora,Electrónica,7,1878.08,Cliente_37,Toluca,Tarjeta,En camino,13146.56
+2024-06-10,Papel Higiénico,Hogar,7,129.99,Cliente_42,Monterrey,Tarjeta,Cancelado,909.93
+2024-06-06,Arroz,Despensa,7,40.7,Cliente_35,Monterrey,Transferencia,Cancelado,284.9
+2024-03-22,Licuadora,Electrónica,6,1656.63,Cliente_87,Toluca,Efectivo,En camino,9939.78
+2024-06-07,Refresco,Bebidas,6,36.26,Cliente_6,Monterrey,Efectivo,Entregado,217.56
+2024-07-06,Arroz,Despensa,2,41.25,Cliente_68,Puebla,PayPal,Entregado,82.5
+2024-02-29,Leche,Alimentos,4,31.65,Cliente_18,Guadalajara,Tarjeta,Cancelado,126.6
+2024-10-31,Arroz,Despensa,7,53.03,Cliente_73,Monterrey,Transferencia,En camino,371.21
+2024-11-14,Papel Higiénico,Hogar,6,115.24,Cliente_29,Monterrey,Tarjeta,En camino,691.44
+2024-07-29,Arroz,Despensa,2,41.15,Cliente_77,Toluca,Tarjeta,Entregado,82.3
+2024-05-31,Leche,Alimentos,5,30.63,Cliente_59,Puebla,PayPal,Entregado,153.15
+2024-04-18,Papel Higiénico,Hogar,2,101.72,Cliente_47,Mérida,Tarjeta,Entregado,203.44
+2024-03-16,Cereal,Alimentos,6,64.2,Cliente_17,Mérida,Transferencia,En camino,385.2
+2024-01-30,Televisión,Electrónica,3,13139.28,Cliente_96,Mérida,Transferencia,Entregado,39417.84
+2024-11-09,Televisión,Electrónica,3,12365.26,Cliente_22,Mérida,PayPal,Entregado,37095.78
+2024-04-26,Shampoo,Cuidado Personal,7,65.67,Cliente_68,Guadalajara,Tarjeta,Cancelado,459.69
+2024-12-21,Cereal,Alimentos,3,86.25,Cliente_69,Toluca,Transferencia,Entregado,258.75
+2024-07-10,Cereal,Alimentos,7,88.86,Cliente_37,Toluca,Tarjeta,Entregado,622.02
+2024-01-19,Arroz,Despensa,7,40.86,Cliente_49,Querétaro,Tarjeta,En camino,286.02
+2024-06-21,Televisión,Electrónica,6,11302.14,Cliente_13,Puebla,Tarjeta,En camino,67812.84
+2024-08-15,Leche,Alimentos,3,36.5,Cliente_34,Mérida,PayPal,Cancelado,109.5
+2024-12-15,Detergente,Limpieza,7,126.02,Cliente_86,Guadalajara,Tarjeta,Entregado,882.14
+2024-07-01,Detergente,Limpieza,4,131.85,Cliente_53,Puebla,Transferencia,Cancelado,527.4
+2024-04-22,Papel Higiénico,Hogar,5,123.65,Cliente_87,Mérida,Tarjeta,En camino,618.25
+2024-07-01,Televisión,Electrónica,2,11681.49,Cliente_51,Guadalajara,Transferencia,Cancelado,23362.98
+2024-05-25,Televisión,Electrónica,2,10563.06,Cliente_3,Puebla,Tarjeta,En camino,21126.12
+2024-11-14,Detergente,Limpieza,6,95.17,Cliente_42,Toluca,Transferencia,Cancelado,571.02
+2024-04-25,Televisión,Electrónica,3,10684.33,Cliente_98,Toluca,Transferencia,Cancelado,32052.99
+2024-04-22,Arroz,Despensa,3,44.78,Cliente_32,CDMX,Tarjeta,Entregado,134.34
+2024-09-07,Refresco,Bebidas,7,50.77,Cliente_51,Monterrey,Tarjeta,Cancelado,355.39
+2024-09-07,Pan,Alimentos,1,25.83,Cliente_85,Mérida,Transferencia,Entregado,25.83
+2024-10-29,Cereal,Alimentos,7,72.35,Cliente_46,Querétaro,Efectivo,Entregado,506.45
+2024-11-08,Shampoo,Cuidado Personal,5,84.79,Cliente_21,Puebla,PayPal,Entregado,423.95
+2024-04-27,Papel Higiénico,Hogar,4,111.93,Cliente_44,Querétaro,Efectivo,Entregado,447.72
+2024-10-27,Refresco,Bebidas,2,55.16,Cliente_11,CDMX,Efectivo,Cancelado,110.32
+2024-06-09,Detergente,Limpieza,7,110.44,Cliente_68,Monterrey,Tarjeta,En camino,773.08
+2024-07-16,Cereal,Alimentos,1,64.86,Cliente_1,Puebla,PayPal,En camino,64.86
+2024-09-16,Televisión,Electrónica,1,13879.49,Cliente_92,Guadalajara,Efectivo,En camino,13879.49
+2024-05-27,Shampoo,Cuidado Personal,7,93.69,Cliente_63,Mérida,Tarjeta,Cancelado,655.83
+2024-08-27,Televisión,Electrónica,6,15324.07,Cliente_24,Monterrey,Efectivo,Entregado,91944.42
+2024-02-16,Leche,Alimentos,2,38.07,Cliente_99,Toluca,Efectivo,En camino,76.14
+2024-07-16,Leche,Alimentos,6,33.11,Cliente_13,CDMX,Tarjeta,Cancelado,198.66
+2024-02-16,Shampoo,Cuidado Personal,4,92.53,Cliente_98,Monterrey,Tarjeta,Entregado,370.12
+2024-03-18,Shampoo,Cuidado Personal,1,99.14,Cliente_11,Mérida,Tarjeta,En camino,99.14
+2024-05-03,Detergente,Limpieza,1,134.77,Cliente_100,Monterrey,PayPal,Entregado,134.77
+2024-03-15,Shampoo,Cuidado Personal,5,91.47,Cliente_51,Mérida,Efectivo,En camino,457.35
+2024-12-24,Arroz,Despensa,4,52.2,Cliente_17,Toluca,Tarjeta,En camino,208.8
+2024-05-16,Televisión,Electrónica,1,14104.73,Cliente_99,Puebla,Transferencia,En camino,14104.73
+2024-03-30,Refresco,Bebidas,4,48.29,Cliente_82,Guadalajara,Efectivo,Entregado,193.16
+2024-11-20,Licuadora,Electrónica,2,1975.15,Cliente_86,Toluca,Transferencia,Cancelado,3950.3
+2024-03-01,Shampoo,Cuidado Personal,3,82.87,Cliente_24,Guadalajara,PayPal,Entregado,248.61
+2024-05-17,Papel Higiénico,Hogar,1,97.09,Cliente_19,Puebla,Tarjeta,En camino,97.09
+2024-02-19,Leche,Alimentos,5,41.33,Cliente_37,Monterrey,Transferencia,Entregado,206.65
+2024-09-15,Arroz,Despensa,2,39.49,Cliente_85,Guadalajara,PayPal,Cancelado,78.98
+2024-04-16,Cereal,Alimentos,7,73.87,Cliente_8,CDMX,Tarjeta,Entregado,517.09
+2024-04-22,Licuadora,Electrónica,4,1693.8,Cliente_28,CDMX,Transferencia,Cancelado,6775.2
+2024-12-15,Refresco,Bebidas,7,40.17,Cliente_5,Mérida,Transferencia,Cancelado,281.19
+2024-09-10,Licuadora,Electrónica,6,2145.18,Cliente_17,Toluca,PayPal,Entregado,12871.08
+2024-04-27,Shampoo,Cuidado Personal,2,87.44,Cliente_36,Puebla,Tarjeta,En camino,174.88
+2024-07-16,Detergente,Limpieza,7,120.84,Cliente_19,Mérida,Tarjeta,Cancelado,845.88
+2024-12-02,Leche,Alimentos,1,27.86,Cliente_64,Toluca,Transferencia,Entregado,27.86
+2024-12-30,Leche,Alimentos,4,38.92,Cliente_91,Toluca,Transferencia,Cancelado,155.68
+2024-02-20,Cereal,Alimentos,3,76.78,Cliente_98,Mérida,Transferencia,En camino,230.34
+2024-09-01,Detergente,Limpieza,2,158.94,Cliente_11,Querétaro,Tarjeta,Entregado,317.88
+2024-02-04,Televisión,Electrónica,1,11446.0,Cliente_54,Toluca,PayPal,Entregado,11446.0
+2024-10-28,Pan,Alimentos,5,28.92,Cliente_45,Querétaro,PayPal,Entregado,144.6
+2024-03-09,Arroz,Despensa,6,46.68,Cliente_47,CDMX,Tarjeta,En camino,280.08
+2024-12-14,Leche,Alimentos,4,43.28,Cliente_12,CDMX,Efectivo,Cancelado,173.12
+2024-11-15,Papel Higiénico,Hogar,2,93.64,Cliente_21,Toluca,PayPal,Entregado,187.28
+2024-02-18,Leche,Alimentos,2,36.46,Cliente_11,CDMX,Transferencia,Cancelado,72.92
+2024-03-14,Licuadora,Electrónica,3,1964.13,Cliente_92,Puebla,Efectivo,Cancelado,5892.39
+2024-07-10,Leche,Alimentos,3,35.98,Cliente_5,Querétaro,Efectivo,En camino,107.94
+2024-09-17,Leche,Alimentos,5,32.66,Cliente_81,Querétaro,PayPal,Entregado,163.3
+2024-12-21,Pan,Alimentos,6,28.82,Cliente_56,Toluca,Efectivo,Cancelado,172.92
+2024-03-10,Pan,Alimentos,5,32.51,Cliente_20,CDMX,Efectivo,Entregado,162.55
+2024-03-30,Refresco,Bebidas,1,33.84,Cliente_41,Guadalajara,PayPal,Entregado,33.84
+2024-09-16,Televisión,Electrónica,1,12239.35,Cliente_46,Mérida,PayPal,En camino,12239.35
+2024-05-05,Papel Higiénico,Hogar,5,85.02,Cliente_12,Mérida,Efectivo,Entregado,425.1
+2024-08-18,Leche,Alimentos,6,41.27,Cliente_70,Querétaro,Transferencia,Entregado,247.62
+2024-10-21,Leche,Alimentos,5,27.0,Cliente_17,Toluca,Tarjeta,Cancelado,135.0
+2024-05-08,Arroz,Despensa,6,41.23,Cliente_19,Toluca,Efectivo,En camino,247.38
+2024-10-06,Pan,Alimentos,6,29.58,Cliente_26,Puebla,Efectivo,Entregado,177.48
+2024-11-08,Papel Higiénico,Hogar,7,117.31,Cliente_48,Monterrey,Transferencia,Cancelado,821.17
+2024-04-09,Cereal,Alimentos,4,69.31,Cliente_52,Monterrey,Efectivo,En camino,277.24
+2024-11-21,Refresco,Bebidas,6,36.67,Cliente_96,Querétaro,Efectivo,En camino,220.02
+2024-10-23,Televisión,Electrónica,3,15386.08,Cliente_70,Mérida,Tarjeta,Cancelado,46158.24
+2024-06-30,Detergente,Limpieza,6,93.94,Cliente_55,Puebla,Tarjeta,Cancelado,563.64
+2024-06-22,Televisión,Electrónica,6,8042.15,Cliente_100,Puebla,Tarjeta,Cancelado,48252.9
+2024-11-11,Licuadora,Electrónica,6,1918.8,Cliente_75,Puebla,PayPal,Cancelado,11512.8
+2024-12-29,Leche,Alimentos,7,32.36,Cliente_33,Querétaro,PayPal,Cancelado,226.52
+2024-07-06,Refresco,Bebidas,7,33.87,Cliente_62,Monterrey,Tarjeta,Entregado,237.09
+2024-02-26,Licuadora,Electrónica,1,1991.26,Cliente_88,Mérida,Tarjeta,Entregado,1991.26
+2024-01-31,Papel Higiénico,Hogar,7,98.47,Cliente_23,Puebla,PayPal,En camino,689.29
+2024-03-24,Detergente,Limpieza,3,109.85,Cliente_15,Mérida,Transferencia,Entregado,329.55
+2024-05-31,Pan,Alimentos,3,22.62,Cliente_27,CDMX,Efectivo,Entregado,67.86
+2024-02-05,Refresco,Bebidas,7,45.23,Cliente_75,Toluca,Efectivo,Entregado,316.61
+2024-07-31,Refresco,Bebidas,5,43.9,Cliente_64,Toluca,Tarjeta,Cancelado,219.5
+2024-12-29,Leche,Alimentos,4,34.48,Cliente_81,Mérida,Transferencia,En camino,137.92
+2024-04-15,Shampoo,Cuidado Personal,7,108.54,Cliente_51,Guadalajara,PayPal,En camino,759.78
+2024-12-07,Refresco,Bebidas,6,33.58,Cliente_53,Guadalajara,Tarjeta,En camino,201.48
+2024-08-07,Arroz,Despensa,2,34.7,Cliente_78,Querétaro,Transferencia,En camino,69.4
+2024-06-11,Detergente,Limpieza,4,107.55,Cliente_91,Querétaro,Transferencia,Entregado,430.2
+2024-08-07,Detergente,Limpieza,4,119.18,Cliente_82,Toluca,Transferencia,Entregado,476.72
+2024-09-26,Arroz,Despensa,3,46.64,Cliente_92,CDMX,PayPal,Cancelado,139.92
+2024-04-29,Cereal,Alimentos,4,67.47,Cliente_51,Monterrey,PayPal,En camino,269.88
+2024-12-01,Arroz,Despensa,7,47.38,Cliente_47,Monterrey,Efectivo,Entregado,331.66
+2024-06-30,Arroz,Despensa,6,36.55,Cliente_4,Querétaro,Efectivo,Entregado,219.3
+2024-04-15,Detergente,Limpieza,6,145.99,Cliente_7,CDMX,Transferencia,Cancelado,875.94
+2024-08-04,Televisión,Electrónica,1,11852.13,Cliente_35,Querétaro,Transferencia,Cancelado,11852.13
+2024-07-23,Detergente,Limpieza,6,140.11,Cliente_48,Monterrey,PayPal,Cancelado,840.66
+2024-03-10,Shampoo,Cuidado Personal,6,89.37,Cliente_73,Mérida,Efectivo,Entregado,536.22
+2024-02-13,Leche,Alimentos,3,37.4,Cliente_72,Querétaro,Transferencia,Entregado,112.2
+2024-11-24,Licuadora,Electrónica,6,1953.84,Cliente_45,Puebla,Efectivo,Cancelado,11723.04
+2024-10-27,Televisión,Electrónica,1,12805.88,Cliente_81,Mérida,Efectivo,En camino,12805.88
+2024-08-15,Pan,Alimentos,2,30.7,Cliente_81,Querétaro,Transferencia,Cancelado,61.4
+2024-07-02,Licuadora,Electrónica,7,2158.87,Cliente_97,Toluca,PayPal,Cancelado,15112.09
+2024-04-16,Leche,Alimentos,3,36.03,Cliente_96,Querétaro,Transferencia,Cancelado,108.09
+2024-03-24,Shampoo,Cuidado Personal,2,94.04,Cliente_72,Toluca,Transferencia,Cancelado,188.08
+2024-12-03,Shampoo,Cuidado Personal,3,83.86,Cliente_19,CDMX,Efectivo,Entregado,251.58
+2024-09-06,Pan,Alimentos,5,34.05,Cliente_63,Monterrey,Transferencia,En camino,170.25
+2024-12-28,Televisión,Electrónica,4,10782.49,Cliente_38,Mérida,PayPal,Cancelado,43129.96
+2024-01-21,Cereal,Alimentos,5,88.91,Cliente_67,Mérida,Transferencia,En camino,444.55
+2024-07-14,Arroz,Despensa,6,44.73,Cliente_59,Guadalajara,PayPal,En camino,268.38
+2024-06-26,Televisión,Electrónica,2,9424.6,Cliente_69,Guadalajara,PayPal,En camino,18849.2
+2024-01-07,Cereal,Alimentos,6,71.35,Cliente_13,Monterrey,Efectivo,Cancelado,428.1
+2024-03-10,Shampoo,Cuidado Personal,4,76.32,Cliente_47,Guadalajara,Tarjeta,Entregado,305.28
+2024-05-06,Detergente,Limpieza,3,135.13,Cliente_61,Mérida,Tarjeta,Cancelado,405.39
+2024-06-08,Leche,Alimentos,4,31.57,Cliente_31,Querétaro,Efectivo,En camino,126.28
+2024-09-04,Pan,Alimentos,1,26.13,Cliente_80,CDMX,Transferencia,En camino,26.13
+2024-07-21,Leche,Alimentos,4,25.08,Cliente_96,CDMX,Efectivo,Entregado,100.32
+2024-05-27,Papel Higiénico,Hogar,1,88.55,Cliente_22,Monterrey,PayPal,Cancelado,88.55
+2024-05-22,Papel Higiénico,Hogar,4,60.46,Cliente_93,Guadalajara,Tarjeta,En camino,241.84
+2024-07-17,Televisión,Electrónica,7,9148.97,Cliente_86,Querétaro,Efectivo,Entregado,64042.79
+2024-06-02,Shampoo,Cuidado Personal,1,94.7,Cliente_43,CDMX,Transferencia,En camino,94.7
+2024-05-21,Shampoo,Cuidado Personal,2,95.02,Cliente_67,CDMX,Efectivo,Entregado,190.04
+2024-11-08,Arroz,Despensa,6,47.87,Cliente_54,Puebla,Tarjeta,Entregado,287.22
+2024-06-13,Arroz,Despensa,6,38.47,Cliente_10,Puebla,Efectivo,Cancelado,230.82
+2024-11-09,Arroz,Despensa,5,44.68,Cliente_42,Mérida,Efectivo,En camino,223.4
+2024-01-21,Detergente,Limpieza,6,119.94,Cliente_64,CDMX,Tarjeta,Cancelado,719.64
+2024-03-22,Licuadora,Electrónica,3,1487.24,Cliente_21,Monterrey,PayPal,En camino,4461.72
+2024-03-09,Refresco,Bebidas,7,49.02,Cliente_80,Toluca,PayPal,Cancelado,343.14
+2024-05-10,Licuadora,Electrónica,4,2036.89,Cliente_76,Toluca,Tarjeta,En camino,8147.56
+2024-03-27,Leche,Alimentos,5,33.84,Cliente_66,Querétaro,Efectivo,Cancelado,169.2
+2024-08-05,Licuadora,Electrónica,3,1807.26,Cliente_41,CDMX,Tarjeta,Entregado,5421.78
+2024-10-31,Detergente,Limpieza,3,123.75,Cliente_24,CDMX,PayPal,En camino,371.25
+2024-12-10,Leche,Alimentos,1,24.28,Cliente_35,Mérida,Transferencia,En camino,24.28
+2024-12-06,Licuadora,Electrónica,6,1733.26,Cliente_56,CDMX,Efectivo,Entregado,10399.56
+2024-06-09,Detergente,Limpieza,2,107.72,Cliente_30,Monterrey,PayPal,Cancelado,215.44
+2024-06-26,Refresco,Bebidas,2,33.99,Cliente_57,Puebla,Efectivo,En camino,67.98
+2024-04-26,Licuadora,Electrónica,5,1724.1,Cliente_94,CDMX,Tarjeta,En camino,8620.5
+2024-07-14,Detergente,Limpieza,7,152.36,Cliente_47,CDMX,Transferencia,Cancelado,1066.52
+2024-11-22,Arroz,Despensa,2,49.33,Cliente_35,Mérida,Tarjeta,Entregado,98.66
+2024-03-26,Shampoo,Cuidado Personal,4,77.72,Cliente_19,Guadalajara,Transferencia,Cancelado,310.88
+2024-10-15,Arroz,Despensa,2,48.86,Cliente_8,Mérida,Efectivo,Cancelado,97.72
+2024-03-21,Shampoo,Cuidado Personal,5,102.84,Cliente_26,Mérida,Efectivo,Cancelado,514.2
+2024-05-31,Pan,Alimentos,2,31.88,Cliente_71,Monterrey,Tarjeta,En camino,63.76
+2024-03-01,Pan,Alimentos,4,28.25,Cliente_30,Querétaro,Transferencia,Entregado,113.0
+2024-03-01,Pan,Alimentos,1,25.28,Cliente_7,CDMX,Transferencia,Entregado,25.28
+2024-12-19,Refresco,Bebidas,7,44.19,Cliente_67,Mérida,Efectivo,Cancelado,309.33
+2024-01-28,Arroz,Despensa,5,47.66,Cliente_65,Mérida,Tarjeta,En camino,238.3
+2024-02-12,Shampoo,Cuidado Personal,1,96.41,Cliente_36,Guadalajara,Transferencia,Cancelado,96.41
+2024-06-17,Detergente,Limpieza,1,131.43,Cliente_25,Mérida,Efectivo,En camino,131.43
+2024-03-26,Leche,Alimentos,1,40.51,Cliente_37,Toluca,PayPal,En camino,40.51
+2024-06-25,Detergente,Limpieza,3,110.37,Cliente_1,Querétaro,Tarjeta,En camino,331.11
+2024-01-17,Leche,Alimentos,7,41.92,Cliente_15,CDMX,PayPal,En camino,293.44
+2024-04-07,Papel Higiénico,Hogar,6,97.82,Cliente_37,CDMX,Tarjeta,Entregado,586.92
+2024-07-16,Detergente,Limpieza,7,157.35,Cliente_13,Guadalajara,Efectivo,En camino,1101.45
+2024-04-07,Licuadora,Electrónica,3,1613.92,Cliente_8,Monterrey,Transferencia,En camino,4841.76
+2024-03-05,Licuadora,Electrónica,6,2268.71,Cliente_5,CDMX,Transferencia,Cancelado,13612.26
+2024-11-25,Televisión,Electrónica,7,12356.24,Cliente_60,Toluca,Transferencia,Cancelado,86493.68
+2024-12-06,Arroz,Despensa,1,40.6,Cliente_73,CDMX,Tarjeta,Entregado,40.6
+2024-01-05,Leche,Alimentos,5,32.46,Cliente_1,Toluca,Efectivo,Cancelado,162.3
+2024-01-02,Leche,Alimentos,6,33.32,Cliente_36,Querétaro,PayPal,En camino,199.92
+2024-01-22,Arroz,Despensa,4,47.86,Cliente_35,Querétaro,Efectivo,Cancelado,191.44
+2024-04-21,Refresco,Bebidas,4,43.14,Cliente_66,Puebla,PayPal,Entregado,172.56
+2024-02-26,Televisión,Electrónica,2,10967.34,Cliente_63,Puebla,Tarjeta,Cancelado,21934.68
+2024-03-06,Refresco,Bebidas,6,39.85,Cliente_23,Toluca,Tarjeta,Cancelado,239.1
+2024-11-25,Refresco,Bebidas,5,52.85,Cliente_9,Monterrey,PayPal,Entregado,264.25
+2024-04-07,Refresco,Bebidas,3,50.37,Cliente_34,CDMX,PayPal,Entregado,151.11
+2024-05-23,Arroz,Despensa,1,47.95,Cliente_46,Mérida,PayPal,En camino,47.95
+2024-05-04,Refresco,Bebidas,2,40.23,Cliente_78,CDMX,Efectivo,Cancelado,80.46
+2024-06-15,Licuadora,Electrónica,4,1832.41,Cliente_4,Puebla,PayPal,En camino,7329.64
+2024-03-26,Pan,Alimentos,3,30.58,Cliente_30,Mérida,Tarjeta,Cancelado,91.74
+2024-03-16,Papel Higiénico,Hogar,3,80.43,Cliente_95,Toluca,Tarjeta,Cancelado,241.29
+2024-12-09,Leche,Alimentos,1,33.65,Cliente_75,Mérida,Transferencia,En camino,33.65
+2024-10-20,Leche,Alimentos,6,26.24,Cliente_99,CDMX,PayPal,Cancelado,157.44
+2024-02-28,Papel Higiénico,Hogar,4,100.69,Cliente_72,CDMX,Efectivo,Cancelado,402.76
+2024-05-17,Arroz,Despensa,5,49.37,Cliente_3,Monterrey,Efectivo,Cancelado,246.85
+2024-04-08,Detergente,Limpieza,3,111.3,Cliente_14,Guadalajara,Efectivo,Entregado,333.9
+2024-07-10,Arroz,Despensa,1,55.62,Cliente_60,Mérida,Transferencia,En camino,55.62
+2024-08-30,Leche,Alimentos,5,28.56,Cliente_77,Puebla,Tarjeta,Entregado,142.8
+2024-11-14,Leche,Alimentos,6,27.31,Cliente_45,Puebla,Efectivo,En camino,163.86
+2024-02-18,Papel Higiénico,Hogar,4,98.2,Cliente_96,Guadalajara,Tarjeta,En camino,392.8
+2024-02-01,Refresco,Bebidas,6,46.28,Cliente_34,CDMX,Transferencia,Cancelado,277.68
+2024-10-03,Arroz,Despensa,3,56.37,Cliente_45,Monterrey,PayPal,En camino,169.11
+2024-01-20,Shampoo,Cuidado Personal,5,79.15,Cliente_61,Monterrey,PayPal,Entregado,395.75
+2024-06-02,Papel Higiénico,Hogar,5,110.37,Cliente_83,Puebla,PayPal,Entregado,551.85
+2024-03-08,Licuadora,Electrónica,5,1789.6,Cliente_16,Monterrey,Efectivo,Entregado,8948.0
+2024-08-01,Leche,Alimentos,3,34.09,Cliente_66,Querétaro,PayPal,En camino,102.27
+2024-05-22,Papel Higiénico,Hogar,3,107.59,Cliente_40,Guadalajara,Efectivo,Entregado,322.77
+2024-08-19,Arroz,Despensa,6,49.4,Cliente_17,CDMX,Transferencia,En camino,296.4
+2024-07-31,Leche,Alimentos,2,26.72,Cliente_34,Querétaro,Transferencia,Entregado,53.44
+2024-03-19,Detergente,Limpieza,6,146.58,Cliente_16,Guadalajara,Efectivo,Entregado,879.48
+2024-08-01,Papel Higiénico,Hogar,4,114.67,Cliente_60,Toluca,Tarjeta,En camino,458.68
+2024-04-25,Televisión,Electrónica,1,10873.99,Cliente_66,Mérida,PayPal,Entregado,10873.99
+2024-04-01,Leche,Alimentos,5,37.08,Cliente_66,Puebla,PayPal,Cancelado,185.4
+2024-09-26,Arroz,Despensa,2,48.33,Cliente_90,Monterrey,PayPal,En camino,96.66
+2024-06-16,Pan,Alimentos,1,29.09,Cliente_13,Toluca,Efectivo,En camino,29.09
+2024-02-27,Shampoo,Cuidado Personal,2,77.98,Cliente_56,Monterrey,Transferencia,En camino,155.96
+2024-10-10,Cereal,Alimentos,7,62.95,Cliente_31,Querétaro,PayPal,Cancelado,440.65
+2024-01-26,Refresco,Bebidas,6,39.85,Cliente_34,CDMX,Transferencia,En camino,239.1
+2024-03-06,Cereal,Alimentos,3,82.31,Cliente_39,CDMX,PayPal,Entregado,246.93
+2024-09-04,Arroz,Despensa,5,48.67,Cliente_67,CDMX,PayPal,Entregado,243.35
+2024-09-10,Licuadora,Electrónica,6,1699.93,Cliente_8,Monterrey,Efectivo,Entregado,10199.58
+2024-02-13,Licuadora,Electrónica,1,2008.36,Cliente_87,Toluca,Tarjeta,En camino,2008.36
+2024-04-06,Pan,Alimentos,7,16.04,Cliente_78,CDMX,Efectivo,Entregado,112.28
+2024-02-11,Refresco,Bebidas,7,46.89,Cliente_55,Toluca,PayPal,En camino,328.23
+2024-08-14,Televisión,Electrónica,7,8868.52,Cliente_27,Monterrey,PayPal,Entregado,62079.64
+2024-09-18,Pan,Alimentos,1,26.48,Cliente_93,Querétaro,Tarjeta,Cancelado,26.48
+2024-06-15,Cereal,Alimentos,1,58.24,Cliente_53,Toluca,Transferencia,Cancelado,58.24
+2024-10-05,Pan,Alimentos,1,22.56,Cliente_39,Querétaro,Transferencia,Cancelado,22.56
+2024-03-29,Cereal,Alimentos,1,82.19,Cliente_65,Monterrey,PayPal,Cancelado,82.19
+2024-06-26,Leche,Alimentos,7,32.54,Cliente_17,Monterrey,Transferencia,En camino,227.78
+2024-07-15,Licuadora,Electrónica,7,1893.56,Cliente_30,Puebla,PayPal,Entregado,13254.92
+2024-11-02,Leche,Alimentos,2,34.75,Cliente_53,Monterrey,Tarjeta,Cancelado,69.5
+2024-09-23,Shampoo,Cuidado Personal,6,91.08,Cliente_13,Monterrey,Tarjeta,En camino,546.48
+2024-09-24,Refresco,Bebidas,5,40.46,Cliente_21,Guadalajara,PayPal,Cancelado,202.3
+2024-03-14,Televisión,Electrónica,3,9690.61,Cliente_19,CDMX,Tarjeta,Cancelado,29071.83
+2024-01-08,Cereal,Alimentos,7,80.46,Cliente_53,Puebla,Efectivo,En camino,563.22
+2024-10-23,Televisión,Electrónica,3,11111.24,Cliente_19,Mérida,Efectivo,En camino,33333.72
+2024-06-12,Cereal,Alimentos,6,53.66,Cliente_57,Puebla,Tarjeta,Entregado,321.96
+2024-03-25,Arroz,Despensa,6,42.11,Cliente_25,Puebla,PayPal,Entregado,252.66
+2024-03-12,Pan,Alimentos,3,34.3,Cliente_86,Mérida,PayPal,Cancelado,102.9
+2024-02-24,Shampoo,Cuidado Personal,7,95.84,Cliente_31,Guadalajara,Tarjeta,Cancelado,670.88
+2024-02-16,Licuadora,Electrónica,3,1705.86,Cliente_81,Querétaro,Transferencia,Entregado,5117.58
+2024-08-25,Cereal,Alimentos,2,66.33,Cliente_55,Monterrey,Efectivo,Entregado,132.66
+2024-04-13,Televisión,Electrónica,4,11421.06,Cliente_23,CDMX,Transferencia,En camino,45684.24
+2024-07-28,Shampoo,Cuidado Personal,7,111.48,Cliente_32,Toluca,PayPal,Entregado,780.36
+2024-02-11,Detergente,Limpieza,7,126.87,Cliente_62,Mérida,PayPal,Entregado,888.09
+2024-11-11,Detergente,Limpieza,5,127.74,Cliente_74,Querétaro,Transferencia,Cancelado,638.7
+2024-09-24,Leche,Alimentos,1,40.41,Cliente_10,Mérida,Tarjeta,Entregado,40.41
+2024-09-19,Licuadora,Electrónica,4,1864.47,Cliente_100,Monterrey,Transferencia,Cancelado,7457.88
+2024-12-01,Arroz,Despensa,6,43.25,Cliente_72,Guadalajara,Transferencia,Entregado,259.5
+2024-12-30,Televisión,Electrónica,7,11646.57,Cliente_54,Mérida,Efectivo,En camino,81525.99
+2024-09-15,Pan,Alimentos,3,27.7,Cliente_52,Monterrey,Efectivo,Entregado,83.1
+2024-10-09,Pan,Alimentos,4,27.84,Cliente_20,Monterrey,Transferencia,Entregado,111.36
+2024-04-23,Televisión,Electrónica,5,13309.73,Cliente_32,Guadalajara,Transferencia,Entregado,66548.65
+2024-12-28,Refresco,Bebidas,6,40.31,Cliente_14,Puebla,PayPal,Cancelado,241.86
+2024-02-09,Arroz,Despensa,1,49.95,Cliente_50,Puebla,Efectivo,En camino,49.95
+2024-08-07,Shampoo,Cuidado Personal,1,83.97,Cliente_28,CDMX,Efectivo,Entregado,83.97
+2024-05-08,Cereal,Alimentos,5,70.83,Cliente_53,CDMX,PayPal,Cancelado,354.15
+2024-01-08,Refresco,Bebidas,5,28.01,Cliente_24,Puebla,Tarjeta,En camino,140.05
+2024-04-10,Cereal,Alimentos,3,79.62,Cliente_79,Querétaro,Efectivo,Cancelado,238.86
+2024-06-24,Cereal,Alimentos,7,73.64,Cliente_22,Toluca,Efectivo,Cancelado,515.48
+2024-04-16,Refresco,Bebidas,1,45.99,Cliente_30,Monterrey,Tarjeta,En camino,45.99
+2024-04-10,Leche,Alimentos,6,19.79,Cliente_63,Toluca,Efectivo,Entregado,118.74
+2024-09-16,Detergente,Limpieza,4,157.59,Cliente_4,Monterrey,Efectivo,Cancelado,630.36
+2024-09-02,Cereal,Alimentos,6,68.53,Cliente_77,Puebla,Tarjeta,Cancelado,411.18
+2024-10-01,Refresco,Bebidas,2,46.65,Cliente_59,CDMX,Tarjeta,Entregado,93.3
+2024-02-01,Refresco,Bebidas,2,33.76,Cliente_87,Querétaro,Transferencia,Entregado,67.52
+2024-05-16,Papel Higiénico,Hogar,5,103.73,Cliente_8,CDMX,PayPal,En camino,518.65
+2024-01-12,Leche,Alimentos,3,29.47,Cliente_82,Toluca,PayPal,En camino,88.41
+2024-10-28,Licuadora,Electrónica,2,1631.58,Cliente_12,CDMX,Tarjeta,En camino,3263.16
+2024-01-16,Papel Higiénico,Hogar,1,122.27,Cliente_31,Puebla,Tarjeta,Entregado,122.27
+2024-05-08,Papel Higiénico,Hogar,6,92.28,Cliente_78,Querétaro,Efectivo,Cancelado,553.68
+2024-03-03,Televisión,Electrónica,6,12391.38,Cliente_34,Toluca,Transferencia,Cancelado,74348.28
+2024-04-18,Detergente,Limpieza,5,135.66,Cliente_82,Querétaro,Transferencia,En camino,678.3
+2024-01-21,Refresco,Bebidas,7,42.97,Cliente_98,Monterrey,Tarjeta,Entregado,300.79
+2024-06-06,Detergente,Limpieza,7,122.71,Cliente_75,CDMX,Efectivo,Cancelado,858.97
+2024-09-25,Arroz,Despensa,4,47.46,Cliente_76,Querétaro,Efectivo,En camino,189.84
+2024-06-10,Televisión,Electrónica,5,16326.15,Cliente_49,Guadalajara,PayPal,Cancelado,81630.75
+2024-09-16,Licuadora,Electrónica,4,1784.44,Cliente_79,CDMX,PayPal,Cancelado,7137.76
+2024-04-11,Detergente,Limpieza,7,123.62,Cliente_57,Monterrey,Efectivo,Entregado,865.34
+2024-08-10,Pan,Alimentos,5,32.41,Cliente_95,Querétaro,PayPal,Entregado,162.05
+2024-02-28,Cereal,Alimentos,5,81.61,Cliente_93,Toluca,Tarjeta,Cancelado,408.05
+2024-09-03,Arroz,Despensa,5,53.01,Cliente_26,Monterrey,Efectivo,En camino,265.05
+2024-05-07,Leche,Alimentos,7,38.35,Cliente_18,Guadalajara,PayPal,Entregado,268.45
+2024-10-09,Licuadora,Electrónica,4,1491.39,Cliente_96,Querétaro,Transferencia,Cancelado,5965.56
+2024-11-20,Arroz,Despensa,4,56.03,Cliente_86,Mérida,Efectivo,Entregado,224.12
+2024-01-25,Cereal,Alimentos,5,57.96,Cliente_38,Mérida,Efectivo,Entregado,289.8
+2024-05-10,Televisión,Electrónica,2,12544.74,Cliente_81,Puebla,Transferencia,Entregado,25089.48
+2024-12-18,Cereal,Alimentos,3,62.08,Cliente_87,CDMX,Tarjeta,Cancelado,186.24
+2024-07-14,Papel Higiénico,Hogar,7,94.09,Cliente_88,Toluca,Transferencia,En camino,658.63
+2024-10-07,Cereal,Alimentos,3,73.45,Cliente_50,Puebla,Efectivo,En camino,220.35
+2024-06-02,Papel Higiénico,Hogar,3,99.58,Cliente_8,Querétaro,Tarjeta,En camino,298.74
+2024-05-12,Televisión,Electrónica,4,12759.46,Cliente_41,Mérida,PayPal,Entregado,51037.84
+2024-08-14,Shampoo,Cuidado Personal,4,105.57,Cliente_6,Mérida,PayPal,Cancelado,422.28
+2024-07-07,Papel Higiénico,Hogar,2,101.46,Cliente_69,Mérida,PayPal,Entregado,202.92
+2024-09-21,Leche,Alimentos,3,33.72,Cliente_44,Querétaro,Efectivo,En camino,101.16
+2024-05-13,Cereal,Alimentos,3,80.12,Cliente_64,Mérida,Transferencia,En camino,240.36
+2024-07-29,Cereal,Alimentos,5,82.49,Cliente_29,Monterrey,Tarjeta,Cancelado,412.45
+2024-02-29,Leche,Alimentos,4,28.56,Cliente_28,Querétaro,PayPal,Entregado,114.24
+2024-12-29,Pan,Alimentos,3,30.51,Cliente_11,Toluca,Tarjeta,En camino,91.53
+2024-12-29,Refresco,Bebidas,6,44.21,Cliente_65,Puebla,Efectivo,Cancelado,265.26
+2024-07-31,Shampoo,Cuidado Personal,2,81.21,Cliente_19,Toluca,PayPal,Entregado,162.42
+2024-08-03,Licuadora,Electrónica,6,2171.44,Cliente_9,Guadalajara,Efectivo,Entregado,13028.64
+2024-08-13,Papel Higiénico,Hogar,6,92.86,Cliente_27,Mérida,Transferencia,En camino,557.16
+2024-05-10,Leche,Alimentos,7,35.66,Cliente_34,Guadalajara,Efectivo,En camino,249.62
+2024-03-16,Televisión,Electrónica,7,11688.47,Cliente_44,CDMX,Efectivo,Entregado,81819.29
+2024-10-12,Papel Higiénico,Hogar,2,95.22,Cliente_68,CDMX,Transferencia,Entregado,190.44
+2024-10-03,Refresco,Bebidas,6,33.42,Cliente_100,Guadalajara,Tarjeta,En camino,200.52
+2024-06-04,Televisión,Electrónica,3,9407.91,Cliente_82,Querétaro,Transferencia,Entregado,28223.73
+2024-09-04,Arroz,Despensa,4,55.76,Cliente_15,Toluca,Transferencia,En camino,223.04
+2024-08-05,Cereal,Alimentos,2,61.11,Cliente_51,Guadalajara,Efectivo,Entregado,122.22
+2024-07-08,Arroz,Despensa,5,38.31,Cliente_13,CDMX,Tarjeta,En camino,191.55
+2024-06-11,Papel Higiénico,Hogar,6,64.31,Cliente_83,Guadalajara,PayPal,Cancelado,385.86
+2024-06-28,Refresco,Bebidas,2,36.17,Cliente_49,Querétaro,Transferencia,En camino,72.34
+2024-02-03,Shampoo,Cuidado Personal,1,68.13,Cliente_70,Guadalajara,Tarjeta,En camino,68.13
+2024-02-10,Papel Higiénico,Hogar,1,118.4,Cliente_56,Toluca,Transferencia,Cancelado,118.4
+2024-11-02,Leche,Alimentos,7,40.3,Cliente_76,Puebla,Transferencia,Entregado,282.1
+2024-12-03,Detergente,Limpieza,4,107.61,Cliente_51,Querétaro,Transferencia,Cancelado,430.44
+2024-11-09,Papel Higiénico,Hogar,3,127.1,Cliente_37,CDMX,Transferencia,En camino,381.3
+2024-03-15,Cereal,Alimentos,4,80.31,Cliente_17,Toluca,Efectivo,Entregado,321.24
+2024-10-05,Cereal,Alimentos,4,66.59,Cliente_58,Guadalajara,Tarjeta,Cancelado,266.36
+2024-06-24,Papel Higiénico,Hogar,4,59.38,Cliente_87,Guadalajara,Tarjeta,Entregado,237.52
+2024-05-29,Televisión,Electrónica,4,16123.7,Cliente_90,Puebla,Tarjeta,Entregado,64494.8
+2024-09-29,Detergente,Limpieza,5,94.99,Cliente_29,CDMX,Transferencia,Cancelado,474.95
+2024-11-20,Leche,Alimentos,5,26.36,Cliente_33,CDMX,Efectivo,Entregado,131.8
+2024-04-17,Papel Higiénico,Hogar,7,109.57,Cliente_60,Monterrey,Transferencia,Cancelado,766.99
+2024-05-18,Televisión,Electrónica,2,16391.55,Cliente_91,CDMX,Transferencia,En camino,32783.1
+2024-12-15,Cereal,Alimentos,1,84.53,Cliente_89,Puebla,Tarjeta,Entregado,84.53
+2024-09-27,Cereal,Alimentos,4,75.92,Cliente_55,Mérida,Transferencia,En camino,303.68
+2024-12-12,Refresco,Bebidas,7,43.57,Cliente_10,Monterrey,PayPal,En camino,304.99
+2024-10-15,Papel Higiénico,Hogar,2,107.16,Cliente_47,Monterrey,Transferencia,Entregado,214.32
+2024-07-30,Detergente,Limpieza,1,133.66,Cliente_23,Guadalajara,PayPal,Cancelado,133.66
+2024-09-28,Pan,Alimentos,6,29.18,Cliente_85,Guadalajara,Transferencia,Entregado,175.08
+2024-03-06,Detergente,Limpieza,3,121.88,Cliente_21,CDMX,Efectivo,En camino,365.64
+2024-09-04,Cereal,Alimentos,5,69.34,Cliente_13,Monterrey,Efectivo,En camino,346.7
+2024-06-04,Cereal,Alimentos,6,62.08,Cliente_33,Guadalajara,Tarjeta,Cancelado,372.48
+2024-02-16,Arroz,Despensa,1,43.11,Cliente_24,Puebla,Transferencia,Entregado,43.11
+2024-07-19,Cereal,Alimentos,6,52.22,Cliente_11,Guadalajara,PayPal,En camino,313.32
+2024-05-27,Leche,Alimentos,3,34.48,Cliente_17,Querétaro,PayPal,En camino,103.44
+2024-05-03,Licuadora,Electrónica,7,1533.08,Cliente_68,Querétaro,Transferencia,En camino,10731.56
+2024-01-01,Papel Higiénico,Hogar,1,79.27,Cliente_47,Guadalajara,PayPal,Cancelado,79.27
+2024-09-03,Detergente,Limpieza,6,123.24,Cliente_25,Monterrey,Efectivo,En camino,739.44
+2024-12-08,Licuadora,Electrónica,5,2175.84,Cliente_94,Mérida,PayPal,En camino,10879.2
+2024-05-07,Televisión,Electrónica,5,13652.97,Cliente_73,Mérida,Tarjeta,Entregado,68264.85
+2024-07-09,Pan,Alimentos,2,21.4,Cliente_21,Monterrey,Efectivo,Entregado,42.8
+2024-03-07,Leche,Alimentos,6,29.8,Cliente_84,Toluca,Efectivo,En camino,178.8
+2024-01-04,Detergente,Limpieza,4,136.93,Cliente_83,Mérida,Efectivo,En camino,547.72
+2024-10-29,Licuadora,Electrónica,6,1534.73,Cliente_83,Querétaro,Transferencia,Entregado,9208.38
+2024-10-20,Pan,Alimentos,7,27.06,Cliente_12,Puebla,Transferencia,Cancelado,189.42
+2024-05-22,Arroz,Despensa,1,48.71,Cliente_37,Monterrey,Efectivo,Cancelado,48.71
+2024-07-09,Leche,Alimentos,1,29.92,Cliente_42,CDMX,Transferencia,Cancelado,29.92
+2024-01-21,Leche,Alimentos,7,35.55,Cliente_17,Querétaro,PayPal,Cancelado,248.85
+2024-08-14,Arroz,Despensa,6,36.0,Cliente_48,Puebla,Transferencia,Cancelado,216.0
+2024-11-08,Papel Higiénico,Hogar,7,86.43,Cliente_28,Puebla,Transferencia,Cancelado,605.01
+2024-04-26,Arroz,Despensa,3,47.16,Cliente_41,Monterrey,Efectivo,Cancelado,141.48
+2024-10-28,Leche,Alimentos,7,26.64,Cliente_99,Puebla,Tarjeta,Cancelado,186.48
+2024-05-21,Leche,Alimentos,5,37.31,Cliente_47,Monterrey,Tarjeta,Entregado,186.55
+2024-02-08,Licuadora,Electrónica,7,1794.7,Cliente_18,Mérida,Tarjeta,Cancelado,12562.9
+2024-12-20,Cereal,Alimentos,1,75.8,Cliente_78,Guadalajara,PayPal,Cancelado,75.8
+2024-09-08,Pan,Alimentos,5,28.94,Cliente_99,Querétaro,Transferencia,Cancelado,144.7
+2024-11-28,Arroz,Despensa,1,54.21,Cliente_71,Toluca,Tarjeta,En camino,54.21
+2024-07-25,Pan,Alimentos,2,28.53,Cliente_13,Guadalajara,Efectivo,Entregado,57.06
+2024-07-28,Arroz,Despensa,4,42.1,Cliente_82,Querétaro,Tarjeta,Entregado,168.4
+2024-04-24,Televisión,Electrónica,1,12220.14,Cliente_13,Monterrey,Tarjeta,Entregado,12220.14
+2024-08-12,Leche,Alimentos,5,37.85,Cliente_100,Querétaro,Transferencia,Cancelado,189.25
+2024-05-13,Cereal,Alimentos,2,70.51,Cliente_31,Mérida,Transferencia,Cancelado,141.02
+2024-09-07,Licuadora,Electrónica,1,1810.96,Cliente_2,Monterrey,Transferencia,En camino,1810.96
+2024-08-06,Cereal,Alimentos,3,62.63,Cliente_16,Guadalajara,PayPal,Entregado,187.89
+2024-03-31,Cereal,Alimentos,7,63.04,Cliente_9,CDMX,PayPal,Cancelado,441.28
+2024-12-19,Cereal,Alimentos,4,55.27,Cliente_73,CDMX,Tarjeta,Entregado,221.08
+2024-02-15,Pan,Alimentos,1,35.35,Cliente_38,Querétaro,Transferencia,En camino,35.35
+2024-02-07,Arroz,Despensa,2,36.6,Cliente_75,CDMX,Tarjeta,En camino,73.2
+2024-05-21,Shampoo,Cuidado Personal,3,76.17,Cliente_54,Monterrey,Efectivo,En camino,228.51
+2024-04-09,Televisión,Electrónica,6,10706.87,Cliente_56,Puebla,Efectivo,Entregado,64241.22
+2024-11-23,Detergente,Limpieza,2,136.11,Cliente_86,Monterrey,Transferencia,Cancelado,272.22
+2024-07-08,Cereal,Alimentos,7,66.9,Cliente_97,Puebla,Transferencia,Cancelado,468.3
+2024-02-04,Papel Higiénico,Hogar,2,112.78,Cliente_100,Guadalajara,Efectivo,En camino,225.56
+2024-05-26,Pan,Alimentos,3,25.17,Cliente_87,Toluca,Transferencia,Cancelado,75.51
+2024-01-30,Licuadora,Electrónica,2,1875.33,Cliente_45,Puebla,PayPal,En camino,3750.66
+2024-11-29,Detergente,Limpieza,3,104.96,Cliente_34,CDMX,PayPal,Entregado,314.88
+2024-03-24,Shampoo,Cuidado Personal,1,112.35,Cliente_9,Monterrey,Transferencia,En camino,112.35
+2024-10-07,Papel Higiénico,Hogar,3,78.08,Cliente_88,Guadalajara,Efectivo,Entregado,234.24
+2024-12-09,Shampoo,Cuidado Personal,3,88.95,Cliente_8,CDMX,Tarjeta,En camino,266.85
+2024-09-26,Detergente,Limpieza,4,131.41,Cliente_7,Guadalajara,Transferencia,Cancelado,525.64
+2024-06-02,Cereal,Alimentos,3,74.34,Cliente_36,Toluca,Transferencia,Cancelado,223.02
+2024-04-11,Papel Higiénico,Hogar,3,92.36,Cliente_18,Mérida,Tarjeta,En camino,277.08
+2024-08-02,Shampoo,Cuidado Personal,6,83.34,Cliente_3,Monterrey,Transferencia,Cancelado,500.04
+2024-05-29,Licuadora,Electrónica,1,1811.83,Cliente_28,Querétaro,Tarjeta,Cancelado,1811.83
+2024-03-23,Arroz,Despensa,7,44.01,Cliente_70,Monterrey,Efectivo,Cancelado,308.07
+2024-04-19,Leche,Alimentos,4,40.06,Cliente_44,Toluca,PayPal,Entregado,160.24
+2024-10-01,Arroz,Despensa,6,59.92,Cliente_21,Monterrey,Efectivo,Cancelado,359.52
+2024-07-19,Detergente,Limpieza,5,109.97,Cliente_28,Querétaro,PayPal,Entregado,549.85
+2024-10-10,Pan,Alimentos,1,22.25,Cliente_54,Puebla,Tarjeta,En camino,22.25
+2024-06-21,Leche,Alimentos,1,34.54,Cliente_54,Guadalajara,PayPal,Cancelado,34.54
+2024-11-22,Televisión,Electrónica,5,16643.48,Cliente_65,Querétaro,Efectivo,Cancelado,83217.4
+2024-07-24,Licuadora,Electrónica,7,1583.01,Cliente_100,CDMX,PayPal,Cancelado,11081.07
+2024-03-03,Televisión,Electrónica,3,14950.41,Cliente_21,Toluca,Tarjeta,En camino,44851.23
+2024-03-13,Papel Higiénico,Hogar,6,118.91,Cliente_99,Puebla,PayPal,Entregado,713.46
+2024-09-07,Leche,Alimentos,2,32.09,Cliente_13,CDMX,Transferencia,Entregado,64.18
+2024-05-03,Televisión,Electrónica,4,13024.17,Cliente_57,CDMX,Efectivo,Cancelado,52096.68
+2024-04-30,Televisión,Electrónica,2,14931.11,Cliente_49,Toluca,Transferencia,En camino,29862.22
+2024-10-01,Shampoo,Cuidado Personal,5,80.17,Cliente_54,Puebla,Tarjeta,En camino,400.85
+2024-04-29,Arroz,Despensa,1,43.63,Cliente_10,Mérida,PayPal,En camino,43.63
+2024-11-12,Shampoo,Cuidado Personal,7,77.58,Cliente_53,CDMX,Transferencia,En camino,543.06
+2024-06-12,Leche,Alimentos,1,29.67,Cliente_44,CDMX,Transferencia,En camino,29.67
+2024-10-12,Leche,Alimentos,4,31.59,Cliente_47,Puebla,PayPal,Entregado,126.36
+2024-09-21,Detergente,Limpieza,1,97.97,Cliente_53,Monterrey,PayPal,Entregado,97.97
+2024-11-15,Shampoo,Cuidado Personal,1,85.43,Cliente_74,CDMX,Efectivo,Entregado,85.43
+2024-06-09,Refresco,Bebidas,4,35.38,Cliente_46,Guadalajara,Transferencia,Cancelado,141.52
+2024-11-03,Arroz,Despensa,6,46.58,Cliente_13,Puebla,Transferencia,En camino,279.48
+2024-03-29,Leche,Alimentos,6,26.83,Cliente_37,CDMX,Tarjeta,Cancelado,160.98
+2024-05-21,Detergente,Limpieza,4,125.96,Cliente_24,Toluca,Efectivo,En camino,503.84
+2024-07-21,Shampoo,Cuidado Personal,7,95.63,Cliente_2,Querétaro,Tarjeta,Entregado,669.41
+2024-11-04,Arroz,Despensa,5,31.54,Cliente_86,Guadalajara,Transferencia,Cancelado,157.7
+2024-08-14,Shampoo,Cuidado Personal,1,89.77,Cliente_81,Querétaro,Tarjeta,Entregado,89.77
+2024-11-29,Televisión,Electrónica,7,14209.8,Cliente_100,Querétaro,Transferencia,En camino,99468.6
+2024-08-09,Detergente,Limpieza,1,98.23,Cliente_14,CDMX,Transferencia,En camino,98.23
+2024-02-10,Arroz,Despensa,5,56.29,Cliente_10,Guadalajara,Tarjeta,En camino,281.45
+2024-07-14,Cereal,Alimentos,6,74.4,Cliente_35,Guadalajara,Tarjeta,Entregado,446.4
+2024-03-08,Papel Higiénico,Hogar,7,84.95,Cliente_25,Monterrey,PayPal,En camino,594.65
+2024-09-20,Papel Higiénico,Hogar,3,94.21,Cliente_3,Querétaro,PayPal,Entregado,282.63
+2024-01-02,Arroz,Despensa,3,48.77,Cliente_17,Guadalajara,PayPal,Cancelado,146.31
+2024-12-26,Shampoo,Cuidado Personal,3,85.97,Cliente_12,Monterrey,Transferencia,En camino,257.91
+2024-05-04,Detergente,Limpieza,6,129.7,Cliente_54,Puebla,Tarjeta,En camino,778.2
+2024-04-19,Papel Higiénico,Hogar,6,81.88,Cliente_24,Monterrey,Efectivo,En camino,491.28
+2024-03-26,Detergente,Limpieza,5,123.05,Cliente_29,Toluca,Transferencia,Cancelado,615.25
+2024-04-29,Papel Higiénico,Hogar,1,74.85,Cliente_43,Mérida,Efectivo,En camino,74.85
+2024-05-06,Televisión,Electrónica,5,11799.79,Cliente_25,CDMX,Tarjeta,Entregado,58998.95
+2024-09-11,Shampoo,Cuidado Personal,5,73.48,Cliente_100,Puebla,Transferencia,Entregado,367.4
+2024-07-01,Televisión,Electrónica,6,10676.05,Cliente_60,Mérida,Efectivo,En camino,64056.3
+2024-01-16,Papel Higiénico,Hogar,3,112.61,Cliente_90,Mérida,Efectivo,En camino,337.83
+2024-03-02,Cereal,Alimentos,2,81.46,Cliente_65,Puebla,PayPal,Cancelado,162.92
+2024-06-06,Cereal,Alimentos,1,76.4,Cliente_84,Toluca,PayPal,Cancelado,76.4
+2024-09-24,Televisión,Electrónica,6,10033.84,Cliente_28,Monterrey,PayPal,Cancelado,60203.04
+2024-02-04,Cereal,Alimentos,3,66.68,Cliente_16,CDMX,Transferencia,En camino,200.04
+2024-09-23,Papel Higiénico,Hogar,7,112.29,Cliente_47,Monterrey,Tarjeta,Cancelado,786.03
+2024-03-04,Arroz,Despensa,2,45.96,Cliente_81,Guadalajara,Tarjeta,Cancelado,91.92
+2024-02-19,Televisión,Electrónica,2,16174.79,Cliente_92,Monterrey,PayPal,Entregado,32349.58
+2024-09-11,Pan,Alimentos,6,29.65,Cliente_58,Puebla,PayPal,Cancelado,177.9
+2024-05-28,Shampoo,Cuidado Personal,4,87.45,Cliente_76,CDMX,PayPal,Entregado,349.8
+2024-11-20,Cereal,Alimentos,1,66.75,Cliente_27,Monterrey,Efectivo,Entregado,66.75
+2024-10-30,Cereal,Alimentos,2,71.4,Cliente_53,CDMX,PayPal,Cancelado,142.8
+2024-10-02,Leche,Alimentos,6,34.2,Cliente_42,CDMX,Efectivo,Entregado,205.2
+2024-12-22,Refresco,Bebidas,6,44.25,Cliente_59,Guadalajara,Tarjeta,En camino,265.5
+2024-06-20,Televisión,Electrónica,3,13722.06,Cliente_47,Guadalajara,Transferencia,En camino,41166.18
+2024-07-19,Licuadora,Electrónica,7,1587.78,Cliente_94,Puebla,Transferencia,Cancelado,11114.46
+2024-11-19,Cereal,Alimentos,4,56.02,Cliente_34,Toluca,Transferencia,En camino,224.08
+2024-02-04,Shampoo,Cuidado Personal,1,61.59,Cliente_37,Mérida,Transferencia,Entregado,61.59
+2024-08-03,Pan,Alimentos,5,30.13,Cliente_6,CDMX,Efectivo,En camino,150.65
+2024-03-05,Cereal,Alimentos,7,58.41,Cliente_7,Toluca,Efectivo,Cancelado,408.87
+2024-01-08,Pan,Alimentos,7,18.96,Cliente_96,Mérida,PayPal,Cancelado,132.72
+2024-10-27,Papel Higiénico,Hogar,3,100.54,Cliente_96,Mérida,Efectivo,Entregado,301.62
+2024-12-08,Papel Higiénico,Hogar,2,130.53,Cliente_25,Puebla,PayPal,Cancelado,261.06
+2024-11-27,Refresco,Bebidas,2,39.96,Cliente_33,Mérida,PayPal,En camino,79.92
+2024-03-16,Arroz,Despensa,3,50.66,Cliente_55,Mérida,Transferencia,Cancelado,151.98
+2024-06-22,Licuadora,Electrónica,6,1822.09,Cliente_58,CDMX,Efectivo,Entregado,10932.54
+2024-02-16,Leche,Alimentos,2,34.48,Cliente_7,CDMX,Efectivo,Cancelado,68.96
+2024-01-15,Refresco,Bebidas,4,45.51,Cliente_57,Querétaro,PayPal,En camino,182.04
+2024-12-26,Detergente,Limpieza,1,114.78,Cliente_12,Toluca,PayPal,Entregado,114.78
+2024-05-26,Leche,Alimentos,7,36.4,Cliente_16,Monterrey,Tarjeta,En camino,254.8
+2024-01-26,Televisión,Electrónica,7,12579.06,Cliente_80,Guadalajara,Tarjeta,Entregado,88053.42
+2024-11-03,Shampoo,Cuidado Personal,4,76.48,Cliente_43,Monterrey,PayPal,Cancelado,305.92
+2024-04-02,Detergente,Limpieza,2,137.86,Cliente_100,Toluca,Tarjeta,Entregado,275.72
+2024-08-19,Detergente,Limpieza,7,116.85,Cliente_77,Guadalajara,Tarjeta,Entregado,817.95
+2024-01-21,Refresco,Bebidas,5,35.47,Cliente_7,Monterrey,PayPal,Cancelado,177.35
+2024-11-02,Arroz,Despensa,1,48.62,Cliente_100,Querétaro,PayPal,En camino,48.62
+2024-02-07,Refresco,Bebidas,1,34.61,Cliente_51,Guadalajara,Efectivo,Cancelado,34.61
+2024-10-02,Televisión,Electrónica,7,12050.73,Cliente_73,CDMX,PayPal,Entregado,84355.11
+2024-06-05,Cereal,Alimentos,3,69.9,Cliente_32,Monterrey,PayPal,Cancelado,209.7
+2024-06-27,Cereal,Alimentos,7,81.4,Cliente_75,Guadalajara,Transferencia,Entregado,569.8
+2024-05-11,Arroz,Despensa,3,48.2,Cliente_8,Querétaro,Efectivo,Cancelado,144.6
+2024-11-06,Televisión,Electrónica,7,11954.95,Cliente_97,Mérida,Efectivo,Cancelado,83684.65
+2024-12-13,Arroz,Despensa,5,50.52,Cliente_87,Guadalajara,Efectivo,En camino,252.6
+2024-01-28,Pan,Alimentos,6,33.84,Cliente_89,Guadalajara,Transferencia,Entregado,203.04
+2024-09-16,Cereal,Alimentos,1,75.86,Cliente_72,Querétaro,PayPal,En camino,75.86
+2024-03-16,Detergente,Limpieza,7,120.19,Cliente_45,Mérida,Efectivo,Entregado,841.33
+2024-03-07,Licuadora,Electrónica,5,1445.8,Cliente_86,Monterrey,Efectivo,Cancelado,7229.0
+2024-12-07,Shampoo,Cuidado Personal,3,71.42,Cliente_59,Puebla,Tarjeta,Entregado,214.26
+2024-07-12,Televisión,Electrónica,3,11450.6,Cliente_4,Monterrey,Efectivo,En camino,34351.8
+2024-06-10,Leche,Alimentos,1,31.8,Cliente_67,Mérida,PayPal,En camino,31.8
+2024-12-12,Arroz,Despensa,4,43.74,Cliente_29,Toluca,PayPal,En camino,174.96
+2024-12-26,Shampoo,Cuidado Personal,7,85.72,Cliente_29,Querétaro,Tarjeta,Entregado,600.04
+2024-09-13,Leche,Alimentos,2,37.78,Cliente_98,Monterrey,Efectivo,En camino,75.56
+2024-03-12,Shampoo,Cuidado Personal,3,84.1,Cliente_98,Guadalajara,Efectivo,En camino,252.3
+2024-03-27,Licuadora,Electrónica,6,1931.36,Cliente_28,Querétaro,Efectivo,En camino,11588.16
+2024-09-18,Leche,Alimentos,6,35.34,Cliente_77,CDMX,Transferencia,Cancelado,212.04
+2024-08-01,Refresco,Bebidas,3,28.15,Cliente_79,Mérida,Efectivo,Cancelado,84.45
+2024-06-01,Papel Higiénico,Hogar,4,81.61,Cliente_87,Monterrey,PayPal,Entregado,326.44
+2024-07-28,Refresco,Bebidas,4,39.14,Cliente_44,Querétaro,PayPal,Entregado,156.56
+2024-03-01,Cereal,Alimentos,5,57.3,Cliente_90,Monterrey,Transferencia,En camino,286.5
+2024-09-24,Papel Higiénico,Hogar,6,103.55,Cliente_4,Querétaro,Transferencia,Cancelado,621.3
+2024-09-18,Refresco,Bebidas,5,49.18,Cliente_90,Guadalajara,Efectivo,En camino,245.9
+2024-08-05,Papel Higiénico,Hogar,6,112.37,Cliente_9,CDMX,Tarjeta,En camino,674.22
+2024-10-09,Papel Higiénico,Hogar,7,91.96,Cliente_5,CDMX,Transferencia,Cancelado,643.72
+2024-05-15,Detergente,Limpieza,7,146.83,Cliente_56,Toluca,Transferencia,Cancelado,1027.81
+2024-12-27,Arroz,Despensa,2,46.0,Cliente_96,Querétaro,Efectivo,Cancelado,92.0
+2024-04-02,Arroz,Despensa,7,42.72,Cliente_84,Monterrey,Efectivo,Entregado,299.04
+2024-04-18,Detergente,Limpieza,2,108.96,Cliente_50,CDMX,Transferencia,Entregado,217.92
+2024-08-28,Shampoo,Cuidado Personal,7,81.14,Cliente_75,Mérida,Tarjeta,En camino,567.98
+2024-12-20,Pan,Alimentos,1,26.37,Cliente_15,CDMX,Transferencia,Entregado,26.37
+2024-05-21,Shampoo,Cuidado Personal,7,87.17,Cliente_32,Puebla,Efectivo,Cancelado,610.19
+2024-10-17,Leche,Alimentos,5,35.84,Cliente_28,Puebla,Efectivo,Cancelado,179.2
+2024-08-24,Leche,Alimentos,3,35.02,Cliente_22,CDMX,Transferencia,Entregado,105.06
+2024-12-05,Papel Higiénico,Hogar,5,101.23,Cliente_17,Querétaro,Tarjeta,En camino,506.15
+2024-11-07,Refresco,Bebidas,3,47.14,Cliente_59,Toluca,Transferencia,En camino,141.42
+2024-06-25,Refresco,Bebidas,4,45.7,Cliente_90,CDMX,Transferencia,Entregado,182.8
+2024-05-20,Arroz,Despensa,5,34.98,Cliente_71,Guadalajara,Efectivo,En camino,174.9
+2024-07-07,Televisión,Electrónica,4,7402.94,Cliente_57,Monterrey,Tarjeta,En camino,29611.76
+2024-02-18,Shampoo,Cuidado Personal,2,96.91,Cliente_26,Toluca,PayPal,En camino,193.82
+2024-10-28,Cereal,Alimentos,2,55.65,Cliente_25,Guadalajara,Tarjeta,Cancelado,111.3
+2024-07-08,Licuadora,Electrónica,1,1739.31,Cliente_10,Toluca,Transferencia,Cancelado,1739.31
+2024-05-15,Refresco,Bebidas,7,32.98,Cliente_45,Guadalajara,Transferencia,Entregado,230.86
+2024-02-12,Licuadora,Electrónica,5,1313.47,Cliente_83,Monterrey,Transferencia,Cancelado,6567.35
+2024-12-18,Papel Higiénico,Hogar,4,102.72,Cliente_11,Monterrey,Tarjeta,En camino,410.88
+2024-03-30,Licuadora,Electrónica,3,2004.97,Cliente_77,Puebla,Efectivo,Cancelado,6014.91
+2024-10-21,Cereal,Alimentos,2,63.95,Cliente_53,Querétaro,Transferencia,Entregado,127.9
+2024-12-06,Detergente,Limpieza,7,73.36,Cliente_72,Guadalajara,Transferencia,Cancelado,513.52
+2024-09-01,Cereal,Alimentos,2,64.26,Cliente_68,Puebla,Tarjeta,En camino,128.52
+2024-07-10,Licuadora,Electrónica,3,1905.79,Cliente_95,Guadalajara,PayPal,En camino,5717.37
+2024-11-13,Cereal,Alimentos,7,54.47,Cliente_28,Puebla,PayPal,Entregado,381.29
+2024-04-15,Pan,Alimentos,7,28.77,Cliente_75,Monterrey,Efectivo,Cancelado,201.39
+2024-12-28,Papel Higiénico,Hogar,4,94.78,Cliente_65,Toluca,Efectivo,Cancelado,379.12
+2024-11-05,Shampoo,Cuidado Personal,4,92.39,Cliente_49,Mérida,Transferencia,Cancelado,369.56
+2024-08-20,Detergente,Limpieza,5,122.15,Cliente_47,Puebla,Tarjeta,En camino,610.75
+2024-09-21,Refresco,Bebidas,5,34.16,Cliente_52,Guadalajara,Transferencia,Entregado,170.8
+2024-12-09,Leche,Alimentos,6,41.28,Cliente_88,Guadalajara,Efectivo,Cancelado,247.68
+2024-02-06,Shampoo,Cuidado Personal,6,82.98,Cliente_54,Mérida,Tarjeta,En camino,497.88
+2024-10-31,Leche,Alimentos,1,34.86,Cliente_60,Querétaro,Tarjeta,En camino,34.86
+2024-02-10,Papel Higiénico,Hogar,2,81.7,Cliente_57,Monterrey,Efectivo,En camino,163.4
+2024-01-17,Detergente,Limpieza,5,112.02,Cliente_47,Guadalajara,PayPal,Cancelado,560.1
+2024-12-09,Arroz,Despensa,4,39.03,Cliente_31,CDMX,PayPal,Cancelado,156.12
+2024-10-03,Refresco,Bebidas,3,38.96,Cliente_46,Toluca,Tarjeta,Cancelado,116.88
+2024-11-02,Pan,Alimentos,4,35.19,Cliente_26,Puebla,Transferencia,Cancelado,140.76
+2024-02-28,Arroz,Despensa,2,35.74,Cliente_5,Querétaro,PayPal,Cancelado,71.48
+2024-07-01,Papel Higiénico,Hogar,6,72.01,Cliente_84,Mérida,Transferencia,Cancelado,432.06
+2024-02-10,Shampoo,Cuidado Personal,4,103.76,Cliente_52,Toluca,PayPal,Cancelado,415.04
+2024-02-08,Pan,Alimentos,1,27.12,Cliente_75,Monterrey,PayPal,Cancelado,27.12
+2024-07-10,Cereal,Alimentos,2,62.97,Cliente_54,Querétaro,Transferencia,Cancelado,125.94
+2024-09-23,Licuadora,Electrónica,6,2080.77,Cliente_33,Puebla,Efectivo,En camino,12484.62
+2024-05-26,Pan,Alimentos,3,25.46,Cliente_50,Puebla,PayPal,Cancelado,76.38
+2024-11-28,Papel Higiénico,Hogar,6,121.02,Cliente_38,Mérida,PayPal,Entregado,726.12
+2024-05-06,Televisión,Electrónica,7,13220.27,Cliente_27,CDMX,Transferencia,En camino,92541.89
+2024-02-15,Licuadora,Electrónica,1,1668.26,Cliente_98,Mérida,Efectivo,Cancelado,1668.26
+2024-02-14,Leche,Alimentos,2,46.33,Cliente_15,Monterrey,PayPal,Entregado,92.66
+2024-01-01,Refresco,Bebidas,3,36.37,Cliente_96,Querétaro,PayPal,Cancelado,109.11
+2024-06-16,Leche,Alimentos,1,38.9,Cliente_61,Querétaro,Efectivo,Entregado,38.9
+2024-04-17,Pan,Alimentos,6,29.26,Cliente_21,Guadalajara,PayPal,Entregado,175.56
+2024-01-19,Leche,Alimentos,1,41.83,Cliente_46,CDMX,Efectivo,Entregado,41.83
+2024-11-27,Papel Higiénico,Hogar,2,117.25,Cliente_69,CDMX,Efectivo,Entregado,234.5
+2024-03-12,Cereal,Alimentos,5,70.34,Cliente_6,Querétaro,Transferencia,En camino,351.7
+2024-04-18,Shampoo,Cuidado Personal,1,75.39,Cliente_38,Querétaro,Tarjeta,En camino,75.39
+2024-09-24,Refresco,Bebidas,7,42.76,Cliente_62,Toluca,Efectivo,Entregado,299.32
+2024-08-27,Leche,Alimentos,1,31.44,Cliente_86,Toluca,Transferencia,Cancelado,31.44
+2024-10-27,Leche,Alimentos,6,45.57,Cliente_62,Toluca,Tarjeta,Entregado,273.42
+2024-03-30,Pan,Alimentos,6,28.57,Cliente_82,CDMX,PayPal,En camino,171.42
+2024-04-12,Shampoo,Cuidado Personal,3,80.34,Cliente_78,Guadalajara,Tarjeta,Cancelado,241.02
+2024-09-06,Arroz,Despensa,6,46.25,Cliente_74,Puebla,Efectivo,En camino,277.5
+2024-01-08,Leche,Alimentos,4,27.93,Cliente_46,Toluca,Efectivo,En camino,111.72
+2024-06-01,Papel Higiénico,Hogar,2,81.15,Cliente_13,Guadalajara,Efectivo,Cancelado,162.3
+2024-12-12,Televisión,Electrónica,2,14160.75,Cliente_95,Mérida,Efectivo,Entregado,28321.5
+2024-06-22,Refresco,Bebidas,5,36.06,Cliente_94,Monterrey,Efectivo,Entregado,180.3
+2024-12-08,Leche,Alimentos,5,29.5,Cliente_3,Toluca,Transferencia,Entregado,147.5
+2024-06-06,Papel Higiénico,Hogar,2,102.65,Cliente_94,Mérida,Efectivo,Entregado,205.3
+2024-08-02,Papel Higiénico,Hogar,7,111.9,Cliente_6,Puebla,Transferencia,Cancelado,783.3
+2024-06-25,Refresco,Bebidas,5,44.31,Cliente_93,Monterrey,PayPal,Cancelado,221.55
+2024-06-23,Arroz,Despensa,3,51.72,Cliente_8,Monterrey,Efectivo,Cancelado,155.16
+2024-12-05,Papel Higiénico,Hogar,6,84.22,Cliente_44,Puebla,Efectivo,En camino,505.32
+2024-12-03,Televisión,Electrónica,2,9440.74,Cliente_33,Toluca,Tarjeta,Cancelado,18881.48
+2024-05-25,Papel Higiénico,Hogar,5,116.39,Cliente_81,CDMX,PayPal,Entregado,581.95
+2024-11-19,Papel Higiénico,Hogar,2,90.4,Cliente_75,Puebla,Efectivo,En camino,180.8
+2024-06-09,Papel Higiénico,Hogar,4,91.43,Cliente_77,Puebla,Efectivo,Entregado,365.72
+2024-05-06,Cereal,Alimentos,1,83.95,Cliente_50,Puebla,PayPal,Entregado,83.95
+2024-03-22,Cereal,Alimentos,6,75.84,Cliente_11,Monterrey,Transferencia,Cancelado,455.04
+2024-05-26,Arroz,Despensa,2,48.08,Cliente_95,Guadalajara,Efectivo,Cancelado,96.16
+2024-08-26,Leche,Alimentos,1,46.37,Cliente_28,Mérida,Tarjeta,Entregado,46.37
+2024-03-24,Papel Higiénico,Hogar,5,85.83,Cliente_70,CDMX,Efectivo,Entregado,429.15
+2024-04-22,Shampoo,Cuidado Personal,1,96.83,Cliente_41,Toluca,Tarjeta,En camino,96.83
+2024-08-12,Leche,Alimentos,6,35.3,Cliente_16,Toluca,Tarjeta,Cancelado,211.8
+2024-11-27,Arroz,Despensa,2,46.81,Cliente_68,Mérida,Efectivo,En camino,93.62
+2024-08-30,Detergente,Limpieza,4,147.51,Cliente_99,Guadalajara,Efectivo,En camino,590.04
+2024-05-22,Leche,Alimentos,7,37.67,Cliente_48,Puebla,Tarjeta,En camino,263.69
+2024-02-10,Leche,Alimentos,5,37.83,Cliente_56,CDMX,PayPal,Entregado,189.15
+2024-09-14,Licuadora,Electrónica,2,2089.58,Cliente_64,Toluca,PayPal,En camino,4179.16
+2024-10-11,Pan,Alimentos,6,26.47,Cliente_59,Mérida,Efectivo,En camino,158.82
+2024-04-14,Licuadora,Electrónica,5,1573.41,Cliente_90,Querétaro,Transferencia,Entregado,7867.05
+2024-07-20,Televisión,Electrónica,3,10119.34,Cliente_62,Mérida,PayPal,Cancelado,30358.02
+2024-11-02,Cereal,Alimentos,1,49.35,Cliente_76,Toluca,Efectivo,Cancelado,49.35
+2024-11-26,Cereal,Alimentos,7,91.59,Cliente_11,Puebla,PayPal,En camino,641.13
+2024-09-22,Pan,Alimentos,6,23.37,Cliente_89,Querétaro,Transferencia,Entregado,140.22
+2024-07-28,Refresco,Bebidas,3,38.67,Cliente_18,Guadalajara,Efectivo,Cancelado,116.01
+2024-02-20,Refresco,Bebidas,2,38.34,Cliente_19,CDMX,Transferencia,En camino,76.68
+2024-04-27,Arroz,Despensa,4,47.07,Cliente_87,Guadalajara,Efectivo,En camino,188.28
+2024-07-19,Pan,Alimentos,5,31.43,Cliente_55,Guadalajara,Transferencia,Entregado,157.15
+2024-02-08,Leche,Alimentos,1,39.52,Cliente_82,Mérida,PayPal,En camino,39.52
+2024-01-28,Refresco,Bebidas,5,36.5,Cliente_26,CDMX,PayPal,Cancelado,182.5
+2024-09-15,Papel Higiénico,Hogar,7,92.62,Cliente_6,CDMX,Transferencia,Entregado,648.34
+2024-03-24,Shampoo,Cuidado Personal,2,88.6,Cliente_4,Toluca,Transferencia,Cancelado,177.2
+2024-06-03,Leche,Alimentos,5,33.69,Cliente_29,Toluca,Transferencia,Cancelado,168.45
+2024-04-26,Televisión,Electrónica,1,14893.22,Cliente_59,CDMX,Efectivo,Cancelado,14893.22
+2024-01-02,Papel Higiénico,Hogar,2,102.0,Cliente_98,Querétaro,PayPal,En camino,204.0
+2024-04-02,Papel Higiénico,Hogar,5,105.47,Cliente_17,Monterrey,Efectivo,En camino,527.35
+2024-06-14,Pan,Alimentos,4,30.78,Cliente_43,Toluca,PayPal,Cancelado,123.12
+2024-12-15,Arroz,Despensa,6,52.92,Cliente_80,Monterrey,Tarjeta,Cancelado,317.52
